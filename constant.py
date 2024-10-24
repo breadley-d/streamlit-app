@@ -23,3 +23,21 @@ info = {
         'location' : 'Mechanicsburg, PA',
         'interest' : 'Computer Science',
     }
+
+
+email = "bradleydkreider@gmail.com"
+linked_in_link = ""
+github = "https://github.com/breadley-d"
+
+
+
+
+linkedin_logo = '''                                                                                                                                          
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <i class="fa-brands fa-linkedin" style="font-size: 28px;"></i>                                                                           
+'''
+
+github_logo = '''
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <i class="fa-brands fa-github" style="font-size: 28px;"></i>                                                                           
+'''
